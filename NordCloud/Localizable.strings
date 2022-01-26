@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  NordCloud
+
+  Created by Mikhail Danilov on 25.01.2022.
+  
+*/
+
+"mainCellContactLabel" = "Fredy Merfy";
+"mainCellTelefonLabel" = "+1 800 123-3455";
+"mainCellDurationLabel" = "00:13";
+"mainCellTimeToCallLabel" = "10:21 AM";
+
+"mainViewControllerTitleLabel" = "Missed calls";
+
+"bottomSheetViewControllerBusNumLabel" = "Busisness number";
+"bottomSheetViewControllerNameLabel" = "Store";
+"bottomSheetViewControllerTelefonLabel" = "+1 888 123-5555";
+
+"mainCellFormatTime" = "hh:mm a";
