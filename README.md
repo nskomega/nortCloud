@@ -1,4 +1,13 @@
 # nortCloud
+
+## О проекте
+
+Тестовое задание по iOS-разработке, 2022 год: список звонков и bottom sheet. В исходниках выделены ViewModel, Router и сервис работы со звонками.
+
+Это исторический пример iOS/Android-кода. Основное текущее направление — Flutter / Dart; актуальный открытый Flutter-проект — [Objectno](https://github.com/nskomega/Objectno).
+
+## Исходные материалы
+
 ![Image alt](https://github.com/nskomega/nortCloud/blob/master/screen.png)
 
 Необходимо разработать экран со списком звонков по макету. 
